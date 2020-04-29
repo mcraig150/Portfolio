@@ -6,7 +6,7 @@
 
 body
 {
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(230, 230, 230);
 
     min-height: 100vh;
     position: relative;
@@ -27,5 +27,27 @@ footer
 .foot-name
 {
     color: white;
-    opacity: .25;
+    opacity: .5;
 }
+#social
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: gray;
+    text-shadow: 1px 1px rgb(59, 59, 59);
+}
+.fa
+{
+    padding: 20px;
+    font-size: 30px;
+    width: 300px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+#but
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
